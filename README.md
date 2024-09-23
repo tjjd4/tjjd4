@@ -2,7 +2,7 @@
 <h3 align="center">A graduated software engineer in Taiwan.</h3>
 <h2 align="center">Contact Info</h2>
 <div align="center">
-  <a href="mailto:seanhung2000@gmail.com">
+  <a href="mailto:seantjjd4@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://x.com/seantjjd4?s=21&t=j_cgPVA87TViEgqUNqNCAQ">
